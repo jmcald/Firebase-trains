@@ -6,9 +6,3 @@ body {
 	height: auto;
 	width: 100%;
 }
-
-#addTrainBtn {
-    background-color: black;
-    color: white;
-    border: none;
-}
